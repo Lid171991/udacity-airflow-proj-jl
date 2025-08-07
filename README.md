@@ -1,6 +1,6 @@
-Project: Data Pipelines with Airflow
+Data Pipelines with Airflow
 
-Project Introduction (Automate Data Pipelines, section 6.1)
+Project Introduction (Automate Data Pipelines, section 6.1):
 
 A music streaming company, Sparkify, has decided that it is time to introduce more automation and monitoring to their data warehouse ETL pipelines and come to the conclusion that the best tool to achieve this is Apache Airflow.
 
