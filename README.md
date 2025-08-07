@@ -10,6 +10,6 @@ The source data resides in S3 and needs to be processed in Sparkify's data wareh
 
 ## Folders
 
-o The 'dag' folder contains final_project.py
-o The 'helpers' folder contains all sql statements & queries to create tables & load data
-o The 'operators' folder contains all of the custom operators required to run the pipeline successfully
+* The 'dag' folder contains final_project.py
+* The 'helpers' folder contains all sql statements & queries to create tables & load data
+* The 'operators' folder contains all of the custom operators required to run the pipeline successfully
